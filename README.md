@@ -12,7 +12,7 @@ This marketplace does **not** work with the general claude.ai web interface or t
 ## Install
 
 ```
-/plugin marketplace add tanapoljoe1-art/claude-skills-kit
+/plugin marketplace add claude-skills-kit/claude-skills-kit
 /plugin install fable-advisor@claude-skills-kit
 ```
 
