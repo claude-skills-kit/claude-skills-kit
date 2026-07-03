@@ -1,0 +1,13 @@
+{
+  "name": "claude-skills-kit",
+  "owner": {
+    "name": "tanapoljoe1-art"
+  },
+  "plugins": [
+    {
+      "name": "fable-advisor",
+      "source": "./fable-advisor",
+      "description": "Consult Fable 5 as a one-shot planning advisor while keeping quota usage low, via a Gate -> Brief -> Spawn -> Implement workflow."
+    }
+  ]
+}
