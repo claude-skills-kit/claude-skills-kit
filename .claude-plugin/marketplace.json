@@ -5,9 +5,9 @@
   },
   "plugins": [
     {
-      "name": "fable-advisor",
-      "source": "./fable-advisor",
-      "description": "Consult Fable 5 as a one-shot planning advisor while keeping quota usage low, via a Gate -> Brief -> Spawn -> Implement workflow."
+      "name": "agent-advisor",
+      "source": "./agent-advisor",
+      "description": "Consult a cold-context advisor subagent (Fable 5 or a fresh Opus) for a plan, diagnosis, critique, or decision, via a Gate -> Mode -> Brief -> Spawn -> Use workflow that keeps quota usage low."
     }
   ]
 }
